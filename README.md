@@ -7,7 +7,8 @@
     This creates a new ssh key, using the provided email as a label.
 
     > Generating public/private rsa key pair.
-    [Image]
+    
+   ![This creates a new ssh key](https://user-images.githubusercontent.com/73681489/98067869-8622b200-1e80-11eb-85b7-8dc56bc8188a.png)
 
 
 # Adding your SSH key to the ssh-agent
