@@ -53,3 +53,11 @@
 
     (7) If prompted, confirm your GitHub password.
     [Image]
+
+
+# How to find new ssh key in your pc when you generating a new ssh key
+
+    (1) You go in c drive
+    (2) Then you go in user
+    (3) Then go in your pc name
+    (4) Then go in .ssh key
