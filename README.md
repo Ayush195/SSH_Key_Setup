@@ -64,7 +64,8 @@
    ![ssh-add-key](https://user-images.githubusercontent.com/73681489/98071950-e880b000-1e8a-11eb-8391-7d6a09e110f8.png)
 
     (7) If prompted, confirm your GitHub password.
-    [Image]
+   
+   ![sudo_mode_popup](https://user-images.githubusercontent.com/73681489/98072020-1239d700-1e8b-11eb-8f53-b50885d4bc98.png)
 
 
 # How to find new ssh key in your pc when you generating a new ssh key
