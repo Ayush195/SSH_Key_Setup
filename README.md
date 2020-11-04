@@ -50,7 +50,8 @@
    ![click Settings](https://user-images.githubusercontent.com/73681489/98071565-ebc76c00-1e89-11eb-9c8b-5f5b173349b5.png)
 
     (3) In the user settings sidebar, click SSH and GPG keys.
-    [Image]
+    
+   ![click SSH and GPG keys](https://user-images.githubusercontent.com/73681489/98071688-33e68e80-1e8a-11eb-9d10-58099f3d8913.png)
 
     (4) In the "Title" field, add a descriptive label for the new key. For example, if you're using a personal Mac, you might call this key "Personal MacBook Air"
 
