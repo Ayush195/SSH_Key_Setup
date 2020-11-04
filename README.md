@@ -37,7 +37,8 @@
 
     (1) Copy the SSH key to your clipboard.
 
-    If your SSH key file has a different name than the example code, modify the filename to match your current setup. When copying your key, don't add any newlines or whitespace.
+    If your SSH key file has a different name than the example code, modify the filename to match your current setup.
+    When copying your key, don't add any newlines or whitespace.
 
     $ clip < ~/.ssh/id_rsa.pub
     # Copies the contents of the id_rsa.pub file to your clipboard
