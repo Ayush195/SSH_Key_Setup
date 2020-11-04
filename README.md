@@ -41,6 +41,8 @@
 
     $ clip < ~/.ssh/id_rsa.pub
     # Copies the contents of the id_rsa.pub file to your clipboard
+    
+   ![Copy the SSH key to your clipboard](https://user-images.githubusercontent.com/73681489/98071447-91c6a680-1e89-11eb-91e4-ece91b18c135.png)
 
     (2) In the upper-right corner of any page, click your profile photo, then click Settings
     [Image]
