@@ -56,7 +56,8 @@
     (4) In the "Title" field, add a descriptive label for the new key. For example, if you're using a personal Mac, you might call this key "Personal MacBook Air"
 
     (5) Paste your key into the "Key" field.
-    [Image]
+    
+   ![ssh-key-paste](https://user-images.githubusercontent.com/73681489/98071793-84f68280-1e8a-11eb-88da-3448e67f40fd.png)
 
     (6) Click Add SSH key.
     [Image]
