@@ -27,7 +27,8 @@
     (2) Add your SSH private key to the ssh-agent. If you created your key with a different name, or if you are adding an existing key that has a different name, replace id_rsa in the command with the name of your private key file.
 
     $ ssh-add ~/.ssh/id_rsa
-    [Image]
+    
+   ![Add your SSH private key to the ssh-agent](https://user-images.githubusercontent.com/73681489/98071369-59bf6380-1e89-11eb-9737-d042568ca1c9.png)
 
 
 # Adding a new SSH key to your GitHub account
