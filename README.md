@@ -15,8 +15,8 @@
 
     (1) If you have GitHub Desktop installed, you can use it to clone repositories and not deal   with SSH keys.
 
-    Ensure the ssh-agent is running. You can use the "Auto-launching the ssh-agent" instructions in "Working with SSH key passphrases",
-    or start it manually:
+    Ensure the ssh-agent is running. You can use the "Auto-launching the ssh-agent" instructions
+    in "Working with SSH key passphrases", or start it manually:
 
     # start the ssh-agent in the background
     $ eval $(ssh-agent -s)
@@ -24,8 +24,9 @@
     
    ![start the ssh-agent in the background](https://user-images.githubusercontent.com/73681489/98071147-c1c17a00-1e88-11eb-850b-b6a6c0584545.png)
 
-    (2) Add your SSH private key to the ssh-agent. If you created your key with a different name, or if you are adding an existing
-    key that has a different name, replace id_rsa in the command with the name of your private key file.
+    (2) Add your SSH private key to the ssh-agent. If you created your key with a different name, 
+    or if you are adding an existingkey that has a different name, replace id_rsa in the command with the
+    name of your private key file.
 
     $ ssh-add ~/.ssh/id_rsa
     
@@ -53,7 +54,8 @@
     
    ![click SSH and GPG keys](https://user-images.githubusercontent.com/73681489/98071688-33e68e80-1e8a-11eb-9d10-58099f3d8913.png)
 
-    (4) In the "Title" field, add a descriptive label for the new key. For example, if you're using a personal Mac, you might call this key "Personal MacBook Air"
+    (4) In the "Title" field, add a descriptive label for the new key.
+    For example, if you're using a personal Mac, you might call this key "Personal MacBook Air"
 
     (5) Paste your key into the "Key" field.
     
