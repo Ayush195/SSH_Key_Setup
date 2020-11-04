@@ -60,7 +60,8 @@
    ![ssh-key-paste](https://user-images.githubusercontent.com/73681489/98071793-84f68280-1e8a-11eb-88da-3448e67f40fd.png)
 
     (6) Click Add SSH key.
-    [Image]
+    
+   ![ssh-add-key](https://user-images.githubusercontent.com/73681489/98071950-e880b000-1e8a-11eb-8391-7d6a09e110f8.png)
 
     (7) If prompted, confirm your GitHub password.
     [Image]
