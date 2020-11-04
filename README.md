@@ -15,7 +15,8 @@
 
     (1) If you have GitHub Desktop installed, you can use it to clone repositories and not deal   with SSH keys.
 
-    Ensure the ssh-agent is running. You can use the "Auto-launching the ssh-agent" instructions in "Working with SSH key passphrases", or start it manually:
+    Ensure the ssh-agent is running. You can use the "Auto-launching the ssh-agent" instructions in "Working with SSH key passphrases",
+    or start it manually:
 
     # start the ssh-agent in the background
     $ eval $(ssh-agent -s)
